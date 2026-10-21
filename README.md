@@ -3,12 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://img.shields.io/badge/Awesome-Ecosystem-fc60a8?style=flat-square&logo=awesomelists" alt="Awesome List"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-Ecosystem-fc60a8?style=flat-square&logo=awesomelists" alt="Awesome List"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Management-System-DMS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Management-System-DMS?style=flat-square&logo=github&color=blue" alt="Repo Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Management-System-DMS/forks"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Document-Management-System-DMS?style=flat-square&logo=github&color=indigo" alt="Repo Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Management-System-DMS/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Document-Management-System-DMS?style=flat-square&color=emerald" alt="Open Issues"></a>
   <a href="#-how-to-contribute"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-amber.svg?style=flat-square" alt="License MIT"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -29,6 +32,8 @@
 - [💻 Open-Source & Self-Hosted Document Management Projects](#-open-source--self-hosted-document-management-projects)
 - [⚖️ Architecture Decision Matrix: Personal vs. Enterprise EDMS](#️-architecture-decision-matrix-personal-vs-enterprise-edms)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsoring](#-support--sponsoring)
 - [🛡️ Compliance & Security Disclaimer](#️-compliance--security-disclaimer)
 
 ---
@@ -143,6 +148,22 @@ We welcome additions, corrections, and community updates to keep this index accu
    - For SaaS platforms: follow the table format, provide verified starting prices, specific free tier limits, and verifiable valuation metrics.
    - For Open-Source projects: provide the active GitHub link, the social star badge (`style=social&color=white`), license, and core architecture breakdown.
 4. 🚀 **Submit a Pull Request** with a concise summary and official citation links.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Document-Management-System-DMS&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Document-Management-System-DMS&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsoring
+
+Thank you for visiting and utilizing the **Awesome Document Management System (DMS)** repository! If you find this directory valuable for your organization, homelab, or research, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to help others find it.
+- 🍴 **Fork and share** with colleagues, DevOps engineers, and IT administrators.
+- ☕ **Buy me a coffee / Sponsor**: If you appreciate this work and want to support ongoing maintenance and new curated ecosystems, consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
