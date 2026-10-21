@@ -89,7 +89,7 @@ The table below catalogs top SaaS and hosted document platforms. As required, it
 
 ## 💻 Open-Source & Self-Hosted Document Management Projects
 
-The open-source ecosystem provides transparent, privacy-first, and data-sovereign alternatives to proprietary vendor lock-in. **Sorted in descending order by GitHub Stars ⭐**. Each project includes a live star badge linking directly to its stargazer community.
+The open-source ecosystem provides transparent, privacy-first, and data-sovereign alternatives to proprietary vendor lock-in. **Sorted in descending order by GitHub_Stars ⭐**. Each project includes a live Stars_Badge linking directly to its stargazer community.
 
 | 📦 Repository & Stargazers | 📜 License | 🛠️ Tech Stack | 💡 Core Purpose & Key Architectural Highlights |
 | :--- | :--- | :--- | :--- |
@@ -146,7 +146,7 @@ We welcome additions, corrections, and community updates to keep this index accu
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-dms`).
 3. 📝 **Add or update the platform entry**:
    - For SaaS platforms: follow the table format, provide verified starting prices, specific free tier limits, and verifiable valuation metrics.
-   - For Open-Source projects: provide the active GitHub link, the social star badge (`style=social&color=white`), license, and core architecture breakdown.
+   - For Open-Source projects: provide the active GitHub link, the social Stars_Badge (`style=social&color=white`), license, and core architecture breakdown.
 4. 🚀 **Submit a Pull Request** with a concise summary and official citation links.
 
 ---
